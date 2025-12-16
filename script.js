@@ -260,7 +260,7 @@ function shuffleArray(array) {
   }
   return shuffled;
 }
-const shuffledImages = shuffleArray(heroImages).slice(0,5);
+const shuffledImages = shuffleArray(heroImages);
 // Rendering
 function renderHeroSwiper() {
   const swiperWrapper = document.querySelector(".hero-swiper .swiper-wrapper");
