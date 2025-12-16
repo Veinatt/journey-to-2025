@@ -49,9 +49,32 @@ const heroImages = [{
   },
   {
     url: "signal-2025-12-16-160747_019.jpeg",
-  }
+  },
+  {
+    url: "signal-2025-12-16-160747_020.jpeg",
+  },
+  {
+    url: "signal-2025-12-16-160747_022.jpeg",
+  },
+  {
+    url: "signal-2025-12-16-162513.jpeg",
+  },
+  {
+    url: "signal-2025-12-16-162513_002.jpeg",
+  },
+  {
+    url: "signal-2025-12-16-162513_003.jpeg",
+  },
+  {
+    url: "signal-2025-12-16-162513_004.jpeg",
+  },
+  {
+    url: "signal-2025-12-16-162513_006.jpeg",
+  },
+  {
+    url: "signal-2025-12-16-162513_005.jpeg",
+  },
 ];
-
 // Events data
 const eventsData = [{
     id: 1,
