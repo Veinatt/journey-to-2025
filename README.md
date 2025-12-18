@@ -110,3 +110,4 @@ The SCSS uses a `$breakpoints` map and a `respond()` mixin for mobile‑first me
 - **Change the color palette** – adjust CSS variables in `style.scss` (`:root` and `[data-theme='light']`).
 - **Swap fonts** – update the Google Fonts link in `index.html` and the font variables in `style.scss`.
 - **Add new sections** – create additional semantic `section` blocks in `index.html` and style them in SCSS.
+

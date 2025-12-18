@@ -1,0 +1,64 @@
+@use '../../styles/variables' as *;
+
+.backToTop {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 40;
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: $radius-pill;
+  border: 1px solid $color-border-subtle;
+  background: radial-gradient(
+    circle at 30% 0,
+    rgba(255, 255, 255, 0.24),
+    $color-surface
+  );
+  color: $color-text;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: $shadow-soft;
+  opacity: 0;
+  transform: translateY(16px);
+  pointer-events: none;
+  transition: opacity 0.3s ease, transform 0.3s ease,
+    box-shadow 0.3s ease, background 0.3s ease;
+
+  &.visible {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+  }
+
+  &:hover {
+    box-shadow: $shadow-strong;
+  }
+
+  &:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 2px #fff, 0 0 0 4px rgba(246, 179, 106, 0.9);
+  }
+
+  @media (min-width: 768px) {
+    right: 2rem;
+    bottom: 2rem;
+  }
+}
+
+.icon {
+  font-size: 1.25rem;
+}
+
+// Light theme
+[data-theme='light'] {
+  .backToTop {
+    background: radial-gradient(
+      circle at 30% 0,
+      rgba(255, 255, 255, 0.8),
+      #f7f1e8
+    );
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+}

@@ -1,0 +1,69 @@
+@use "../../styles/variables" as *;
+@use "../../styles/mixins" as *;
+
+.container {
+  position: relative;
+  width: 100%;
+}
+
+.singleImage {
+  position: relative;
+  overflow: hidden;
+  border-radius: 1.2rem;
+  background: #0b0c11;
+  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.6);
+  margin: 0;
+  width: 280px;
+  height: 280px;
+
+  .image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease-out;
+
+    &:hover {
+      transform: scale(1.04);
+    }
+  }
+}
+
+.eventMediaSwiper {
+  width: 100%;
+  height: 280px;
+  border-radius: 1.2rem;
+  overflow: hidden;
+  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.6);
+  background: #0b0c11;
+
+  :global(.swiper-wrapper) {
+    padding-bottom: 2.5rem; // Нормальный отступ для пагинации
+  }
+}
+
+.slide {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+
+  .image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 500ms ease-out;
+  }
+  &:hover {
+    img {
+      transform: scale(1.06);
+    }
+  }
+}
+
+// Специальный класс для позиционирования пагинации в EventMedia
+.eventPagination {
+  position: absolute;
+  bottom: 8px;
+  left: 0;
+  right: 0;
+  z-index: 10;
+}

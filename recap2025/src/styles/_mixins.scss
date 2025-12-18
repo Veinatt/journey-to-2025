@@ -1,0 +1,47 @@
+@mixin responsive($breakpoint) {
+  @if $breakpoint == mobile {
+    @media (min-width: 320px) { @content; }
+  }
+  @if $breakpoint == tablet {
+    @media (min-width: 768px) { @content; }
+  }
+  @if $breakpoint == desktop {
+    @media (min-width: 1024px) { @content; }
+  }
+  @if $breakpoint == large {
+    @media (min-width: 1200px) { @content; }
+  }
+}
+
+@mixin flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@mixin flex-between {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+@mixin flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+@mixin text-gradient($start, $end) {
+  background: linear-gradient(135deg, $start, $end);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+@mixin card-effect {
+  background: linear-gradient(145deg, $color-surface, $color-surface-soft);
+  border-radius: $radius-lg;
+  border: 1px solid $color-border-subtle;
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.5),
+    0 0 0 1px rgba(255, 255, 255, 0.02);
+  backdrop-filter: blur(12px);
+}
