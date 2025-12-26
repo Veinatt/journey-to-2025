@@ -1,78 +1,78 @@
 // Hero images
 const heroImages = [{
-    url: "signal-2025-12-16-160747.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747.jpeg",
   },
   {
-    url: "signal-2025-12-16-160747_018.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_018.jpeg",
   },
   {
-    url: "signal-2025-12-16-160747_002.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_002.jpeg",
   },
   {
-    url: "signal-2025-12-16-160747_003.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_003.jpeg",
   },
   {
-    url: "signal-2025-12-16-160747_004.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_004.jpeg",
   },
   {
-    url: "signal-2025-12-16-160747_006.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_006.jpeg",
   },
   {
-    url: "signal-2025-12-16-160747_007.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_007.jpeg",
   },
   {
-    url: "signal-2025-12-16-160747_008.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_008.jpeg",
   },
   {
-    url: "signal-2025-12-16-160747_009.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_009.jpeg",
   },
   {
-    url: "signal-2025-12-16-160747_010.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_010.jpeg",
   },
   {
-    url: "signal-2025-12-16-160747_012.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_012.jpeg",
   },
   {
-    url: "signal-2025-12-16-160747_013.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_013.jpeg",
   },
   {
-    url: "signal-2025-12-16-160747_014.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_014.jpeg",
   },
   {
-    url: "signal-2025-12-16-160747_015.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_015.jpeg",
   },
   {
-    url: "signal-2025-12-16-160747_016.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_016.jpeg",
   },
   {
-    url: "signal-2025-12-16-160747_017.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_017.jpeg",
   },
   {
-    url: "signal-2025-12-16-160747_019.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_019.jpeg",
   },
   {
-    url: "signal-2025-12-16-160747_020.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_020.jpeg",
   },
   {
-    url: "signal-2025-12-16-160747_022.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_022.jpeg",
   },
   {
-    url: "signal-2025-12-16-162513.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-162513.jpeg",
   },
   {
-    url: "signal-2025-12-16-162513_002.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-162513_002.jpeg",
   },
   {
-    url: "signal-2025-12-16-162513_003.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-162513_003.jpeg",
   },
   {
-    url: "signal-2025-12-16-162513_004.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-162513_004.jpeg",
   },
   {
-    url: "signal-2025-12-16-162513_006.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-162513_006.jpeg",
   },
   {
-    url: "signal-2025-12-16-162513_005.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-162513_005.jpeg",
   },
 ];
 // Events data
@@ -82,10 +82,10 @@ const eventsData = [{
     title: "Первая поездка на Ислочь",
     description: "Красивая дорога, красивое место. Мы с тобой будто всю местность изучили там и зареклись почаще сюда приезжать, так и вышло) А после поехали встречать закат посреди Минского моря на льду.",
     images: [{
-    url: "signal-2025-12-16-160747_002.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_002.jpeg",
   },
   {
-    url: "signal-2025-12-16-160747_003.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_003.jpeg",
   },
     ],
   },
@@ -95,13 +95,13 @@ const eventsData = [{
     title: "Изучение полей)",
     description: "Одна из самых прикольных наших поездок, если учесть обстоятельства, просто взяли и поехали в поле) Еще и кучу эмоций получили, если не учитывать тот факт, что ты немного кабанов боялась)",
     images: [{
-    url: "signal-2025-12-16-160747_009.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_009.jpeg",
   },
   {
-    url: "signal-2025-12-16-160747_008.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_008.jpeg",
   },
   {
-    url: "signal-2025-12-16-160747_010.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_010.jpeg",
   },
     ],
   },
@@ -111,16 +111,16 @@ const eventsData = [{
     title: "Чудный рассвет",
     description: "Ооооо, та самая случайная поездка до Смолевичей... А сначала просто среди ночи собрались на тусовку) Почему бы и нет) Всегда люблю твои такие настроения, внезапные, но захватывающие",
     images: [{
-    url: "signal-2025-12-16-160747_011.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_011.jpeg",
   },
   {
-    url: "PXL_20250509_023039948.jpg",
+    url: "recap2025/puplic/images/PXL_20250509_023039948.jpg",
   },
   {
-    url: "PXL_20250509_023041545.jpg",
+    url: "recap2025/puplic/images/PXL_20250509_023041545.jpg",
   },
   {
-    url: "PXL_20250509_023344749.MP.jpg",
+    url: "recap2025/puplic/images/PXL_20250509_023344749.MP.jpg",
   },
     ],
   },
@@ -131,21 +131,21 @@ const eventsData = [{
     description: "Кратко и по делу: потрясающий маршрут, куча впечатлений, наши друзья - ленивки)",
     images: [
   {
-    url: "signal-2025-12-16-160747_013.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_013.jpeg",
   },
   {
-    url: "PXL_20250706_105810791.MP.jpg",
+    url: "recap2025/puplic/images/PXL_20250706_105810791.MP.jpg",
   },
   {
-    url: "PXL_20250706_145603113.MP.jpg",
+    url: "recap2025/puplic/images/PXL_20250706_145603113.MP.jpg",
   },
   {
-    url: "PXL_20250706_163006780.jpg",
+    url: "recap2025/puplic/images/PXL_20250706_163006780.jpg",
   },
   {
-    url: "PXL_20250706_165903112.MP.jpg",
+    url: "recap2025/puplic/images/PXL_20250706_165903112.MP.jpg",
   },{
-    url: "signal-2025-12-16-160747_012.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_012.jpeg",
   },
     ],
   },
@@ -155,19 +155,19 @@ const eventsData = [{
     title: "Покатушки в Крээээээва ",
     description: "Очень запомнилась эта поездка, особенно исторические моменты, и как ты просвящала меня местами через видео и всё такое, хочу снова на Усадьбу Огинского",
     images: [{
-    url: "PXL_20250725_115702951.MP.jpg",
+    url: "recap2025/puplic/images/PXL_20250725_115702951.MP.jpg",
   },
   {
-    url: "PXL_20250725_132829780.MP.jpg",
+    url: "recap2025/puplic/images/PXL_20250725_132829780.MP.jpg",
   },
   {
-    url: "PXL_20250725_142426597.MP.jpg",
+    url: "recap2025/puplic/images/PXL_20250725_142426597.MP.jpg",
   },
   {
-    url: "signal-2025-12-16-160747_014.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_014.jpeg",
   },
   {
-    url: "PXL_20250725_172920184.jpg",
+    url: "recap2025/puplic/images/PXL_20250725_172920184.jpg",
   },
     ],
   },
@@ -177,22 +177,22 @@ const eventsData = [{
     title: "Поездами по Витебщине ",
     description: "Ух, а это вообще отвал башки. Столько стресса, столько нервов, столько спешки... Но это было незабываемое приключение и я бы с удовольствием повторил подобный экспириенс",
     images: [{
-    url: "PXL_20250731_090408251.jpg",
+    url: "recap2025/puplic/images/PXL_20250731_090408251.jpg",
   },
   {
-    url: "PXL_20250731_084135117.jpg",
+    url: "recap2025/puplic/images/PXL_20250731_084135117.jpg",
   },
   {
-    url: "PXL_20250731_125837557.jpg",
+    url: "recap2025/puplic/images/PXL_20250731_125837557.jpg",
   },
   {
-    url: "PXL_20250731_131642604.MP.jpg",
+    url: "recap2025/puplic/images/PXL_20250731_131642604.MP.jpg",
   },
   {
-    url: "PXL_20250731_133301790.MP.jpg",
+    url: "recap2025/puplic/images/PXL_20250731_133301790.MP.jpg",
   },
   {
-    url: "signal-2025-12-16-160747_015.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_015.jpeg",
   },
     ],
   },
@@ -202,16 +202,16 @@ const eventsData = [{
     title: "Подсолнухи ",
     description: "ПОДСОЛНУХИИИИИИИИИИИИ!",
     images: [{
-    url: "PXL_20250803_174933116.jpg",
+    url: "recap2025/puplic/images/PXL_20250803_174933116.jpg",
   },
   {
-    url: "PXL_20250803_175949458.MP.jpg",
+    url: "recap2025/puplic/images/PXL_20250803_175949458.MP.jpg",
   },
   {
-    url: "PXL_20250803_180529265.MP.jpg",
+    url: "recap2025/puplic/images/PXL_20250803_180529265.MP.jpg",
   },
   {
-    url: "PXL_20250803_180545275.MP.jpg",
+    url: "recap2025/puplic/images/PXL_20250803_180545275.MP.jpg",
   },
     ],
   },
@@ -221,16 +221,16 @@ const eventsData = [{
     title: "И снова рассвет... ",
     description: "Тот самый день, когда мы пытались заснять небо при свете Луны, но что-то пошло не так) А после встретили чудный рассвет у Лошицы. Туман впечатляет, а ты на его фоне еще больше)",
     images: [{
-    url: "PXL_20250813_010816289.jpg",
+    url: "recap2025/puplic/images/PXL_20250813_010816289.jpg",
   },
   {
-    url: "PXL_20250813_023948366.MP.jpg",
+    url: "recap2025/puplic/images/PXL_20250813_023948366.MP.jpg",
   },
   {
-    url: "PXL_20250813_031356973.MP.jpg",
+    url: "recap2025/puplic/images/PXL_20250813_031356973.MP.jpg",
   },
   {
-    url: "signal-2025-12-16-160747_017.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-160747_017.jpeg",
   },  
     ],
   },
@@ -240,13 +240,13 @@ const eventsData = [{
     title: "Отдых на Воложине ",
     description: "Поездка один большой прикол от и до, особенно на моменте со стогами сена) Культурная программа в тот день была 10/10",
     images: [{
-    url: "signal-2025-12-16-162513.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-162513.jpeg",
   },
   {
-    url: "PXL_20251004_144048219.MP.jpg",
+    url: "recap2025/puplic/images/PXL_20251004_144048219.MP.jpg",
   },
   {
-    url: "signal-2025-12-16-162513_002.jpeg",
+    url: "recap2025/puplic/images/signal-2025-12-16-162513_002.jpeg",
   },
     ],
   },
@@ -524,3 +524,4 @@ document.addEventListener("DOMContentLoaded", () => {
   setupThemeToggle();
   setupKeyboardNavigation();
 });
+
